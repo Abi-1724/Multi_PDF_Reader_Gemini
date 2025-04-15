@@ -1,1 +1,1 @@
-# Multi_PDF_Reader_Gemini
+# multi-pdf-reader-gemini
